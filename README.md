@@ -1,1 +1,1 @@
-# vti-java-junit
+# Java Junit With Maven Project
